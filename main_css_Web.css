@@ -114,6 +114,11 @@ font-weight: 700;
     border-bottom: 2px solid #3DB1A3;
 }
 
+nav ul {
+  display: flex;
+  gap: 30px; /* ここで間隔を調整 */
+}
+
 .header img {
 width: 40px;
 height: 40px;
